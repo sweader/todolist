@@ -1,0 +1,16 @@
+*{
+    font-family: Comic Sans MS;
+}
+
+.input-box{
+    display: flex;
+    flex-direction: row;
+}
+.done{
+    text-decoration: line-through;
+}
+
+ul li{ 
+    user-select: none;
+    cursor: pointer;
+}
